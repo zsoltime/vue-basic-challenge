@@ -8,7 +8,7 @@ Even if the apps/projects themselves are not useful, the skills I can gain from 
 
 Here is a list of the apps I'll create (it's not the complete list and the order may change a bit):
 
-- [ ] [repo](https://github.com/zsoltime/vue-leaderboard) [demo]() Day 01 - Vue Leaderboard
+- [x] [repo](https://github.com/zsoltime/vue-leaderboard) [demo](https://zsolti.co/vue/leaderboard/) Day 01 - Leaderboard
 - [ ] [repo]() [demo]() Day 02 - Markdown Previewer
 - [ ] [repo]() [demo]() Day 03 - Recipe Cards
 - [ ] [repo]() [demo]() Day 04 - Notepad
