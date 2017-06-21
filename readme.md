@@ -9,8 +9,8 @@ Even if the apps/projects themselves are not useful, the skills I can gain from 
 Here is a list of the apps I'll create (it's not the complete list and the order may change a bit):
 
 - [x] [repo](https://github.com/zsoltime/vue-leaderboard) [demo](https://zsolti.co/vue/leaderboard/) Day 01 - Leaderboard
-- [ ] [repo]() [demo]() Day 02 - Markdown Previewer
-- [ ] [repo]() [demo]() Day 03 - Recipe Cards
+- [x] [repo](https://github.com/zsoltime/vue-math-game) [demo](https://zsolti.co/vue/math-game/) Day 02 - Math Game
+- [x] [repo](https://github.com/zsoltime/vue-recipe-cards) [demo](https://zsolti.co/vue/recipe-cards/) Day 03 - Recipe Cards
 - [ ] [repo]() [demo]() Day 04 - Notepad
 - [ ] [repo]() [demo]() Day 05 - Shopping Cart
 - [ ] [repo]() [demo]() Day 06 - Tic Tac Toe
@@ -20,3 +20,4 @@ Here is a list of the apps I'll create (it's not the complete list and the order
 - [ ] [repo]() [demo]() Day 10 - Contact List
 - [ ] [repo]() [demo]() Day 11 - Loan Calculator
 - [ ] [repo]() [demo]() Day 12 - Random Quote App (using an external API)
+- [ ] [repo]() [demo]() Day 13 - Markdown Previewer
