@@ -11,13 +11,14 @@ Here is a list of the apps I'll create (it's not the complete list and the order
 - [x] [repo](https://github.com/zsoltime/vue-leaderboard) [demo](https://zsolti.co/vue/leaderboard/) Day 01 - Leaderboard
 - [x] [repo](https://github.com/zsoltime/vue-math-game) [demo](https://zsolti.co/vue/math-game/) Day 02 - Math Game
 - [x] [repo](https://github.com/zsoltime/vue-recipe-cards) [demo](https://zsolti.co/vue/recipe-cards/) Day 03 - Recipe Cards
-- [ ] [repo]() [demo]() Day 04 - Notepad
-- [ ] [repo]() [demo]() Day 05 - Shopping Cart
+- [x] [repo](https://github.com/zsoltime/vue-todo) [demo](https://zsolti.co/vue/todo/) Day 04 - Todo List
+- [x] [repo](https://github.com/zsoltime/vue-shopping-cart) [demo](https://zsolti.co/vue/shopping-cart/) Day 05 - Shopping Cart
 - [ ] [repo]() [demo]() Day 06 - Tic Tac Toe
 - [ ] [repo]() [demo]() Day 07 - Book Listing App
-- [ ] [repo]() [demo]() Day 08 - Todo List
 - [ ] [repo]() [demo]() Day 09 - Job Listing App (using an external API)
 - [ ] [repo]() [demo]() Day 10 - Contact List
 - [ ] [repo]() [demo]() Day 11 - Loan Calculator
 - [ ] [repo]() [demo]() Day 12 - Random Quote App (using an external API)
-- [ ] [repo]() [demo]() Day 13 - Markdown Previewer
+- [ ] [repo]() [demo]() Day 13 - Notepad
+- [ ] [repo]() [demo]() Day 14 - Inbox
+- [ ] [repo]() [demo]() Day 15 - Markdown Previewer
