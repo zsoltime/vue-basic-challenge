@@ -15,7 +15,7 @@ Here is a list of the apps I'll create (it's not the complete list and the order
 - [x] [repo](https://github.com/zsoltime/vue-shopping-cart) [demo](https://zsolti.co/vue/shopping-cart/) Day 05 - Shopping Cart
 - [x] [repo](https://github.com/zsoltime/vue-loan-calculator) [demo](https://zsolti.co/vue/loan-calculator) Day 06 - Loan Calculator
 - [ ] [repo](https://github.com/zsoltime/vue-contact-list) [demo](https://zsolti.co/vue/contact-list) Day 07 - Contact List
-- [ ] [repo]() [demo]() Day 08 - Tic Tac Toe
+- [ ] [repo](https://github.com/zsoltime/vue-tic-tac-toe) [demo](https://zsolti.co/vue/tic-tac-toe) Day 08 - Tic Tac Toe
 - [ ] [repo]() [demo]() Day 09 - Book Listing App
 - [ ] [repo]() [demo]() Day 10 - Job Listing App (using an external API)
 - [ ] [repo]() [demo]() Day 12 - Random Quote App (using an external API)
